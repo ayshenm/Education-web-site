@@ -250,3 +250,27 @@ h3{
     margin-top: 9px;
     color: rgb(138, 13, 240);
 }
+/*------call to action----*/
+.cta{
+    margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/assets/images/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+.cta h1{
+    font-size: 23px;
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
+.hero{
+    padding: 13px 22px;
+    color: #fff;
+    text-decoration: none;
+    background-color: red;
+   
+}
